@@ -1,7 +1,5 @@
 # SQL-Task2
 # Data Insertion and Null Handling in SQL
-## Objective
-Practice basic SQL operations (INSERT, UPDATE, DELETE) while handling null values and default constraints.
 ## Database Schema
 table:Employees
 Columns:
@@ -25,10 +23,5 @@ Columns:
 ### 4. Data Deletion
 - Removed employees with salary less than $30000
 - Final result: 2 remaining employees
-## Key Learning Points
-1. NULL Handling: Proper use of IS NULL in WHERE clauses
-2. Default Values: Automatic application when columns omitted
-3. Conditional Updates:Using WHERE clauses for targeted updates
-4. Data Integrity:Understanding impact of DELETE operations
 ## Author
 ABISHREE S
